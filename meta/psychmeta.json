@@ -1,0 +1,8 @@
+{
+  "name": "purrr",
+  "author": "rstudio",
+  "license": "CC-BY",
+  "raster": "http://hexb.in/hexagons/psychmeta.png",
+  "vector": "http://hexb.in/vector/psychmeta.svg",
+  "description": "psychmeta: Psychometric Meta-Analysis Toolkit."
+}
